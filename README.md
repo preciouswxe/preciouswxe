@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preciouswxe.
+## - 👋 Hi, I’m @preciouswxe.
 - 👀 I’m interested in drinking milktea.
 - 🌱 I’m currently learning **Golang** , **Web security**.
 - 💞️ I’m looking to collaborate on Backend development.
@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 
 - :rocket:Click here!
-- 📝[Welcome to Myblog ，Let's learn me!](http://www.freedomwxe-blog.cn/)
+### - 📝[Welcome to Myblog ，Let's learn me!](http://www.freedomwxe-blog.cn/)
