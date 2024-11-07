@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 
 - :rocket:Click here!
-- 📝[Myblog](http://www.freedomwxe-blog.cn/)
+- 📝[Welcome to Myblog ，Let's learn me!](http://www.freedomwxe-blog.cn/)
