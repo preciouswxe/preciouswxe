@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I like chiikawa!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciouswxe&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciouswxe)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciouswxe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 preciouswxe/preciouswxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
