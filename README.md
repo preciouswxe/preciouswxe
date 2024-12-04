@@ -6,7 +6,7 @@
 - 😄 Status: alive, laughing
 - ⚡ Fun fact: I like chiikawa!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciouswxe&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciouswxe&show_icons=true&theme=transparent)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciouswxe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
