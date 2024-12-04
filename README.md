@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m @preciouswxe.
 - 👀 I’m interested in drinking milktea.
-- 🌱 I’m currently learning **Golang** , **Web security**.
+- 🌱 I’m a student in HDU(Hangzhou Dianzi University). NoW I'm currently learning **Golang** , **Web security**.
 - 💞️ I’m looking to collaborate on Backend development.
 - 📫 How to reach me : 1356137745@qq.com
 - 😄 Status: alive, laughing
@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- :rocket:Click here!
-### - 📝[Welcome to Myblog ，Let's learn me!](http://www.freedomwxe-blog.cn/)
+- 🚀Click here!
+## - 📝[Welcome to Myblog ，Let's learn me!](http://www.freedomwxe-blog.cn/)
+### - ✨[Or maybe click other open source addresses to know my contributions](https://blog.csdn.net/2302_78965451?spm=1000.2115.3001.5343)
