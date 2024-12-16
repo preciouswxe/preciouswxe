@@ -6,7 +6,8 @@
 - 😄 Status: alive, laughing
 - ⚡ Fun fact: I like chiikawa!
 <br>
-You are my ![Visitor Count](https://profile-counter.glitch.me/preciouswxe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+![](https://github-readme-activity-graph.cyclic.app/graph?username=preciouswxe&theme=dracula)
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciouswxe&show_icons=true&theme=radical)
 <br>
