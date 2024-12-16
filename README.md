@@ -6,7 +6,7 @@
 - 😄 Status: alive, laughing
 - ⚡ Fun fact: I like chiikawa!
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF7DD&width=435&lines=%E6%9B%B2%E7%BB%88%E8%BF%87%E5%B0%BD%E6%9D%BE%E9%99%B5%E8%B7%AF%EF%BC%8C%E5%9B%9E%E9%A6%96%E7%83%9F%E6%B3%A2%E5%8D%81%E5%9B%9B%E6%A1%A5%E3%80%82)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF7DD&width=435&lines=%E6%9B%B2%E7%BB%88%E8%BF%87%E5%B0%BD%E6%9D%BE%E9%99%B5%E8%B7%AF%EF%BC%8C%E5%9B%9E%E9%A6%96%E7%83%9F%E6%B3%A2%E5%8D%81%E5%9B%9B%E6%A1%A5%E3%80%82" alt="Typing SVG" /></a>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciouswxe&show_icons=true&theme=radical)
