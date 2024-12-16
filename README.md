@@ -16,10 +16,8 @@
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preciouswxe&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-<!---
-preciouswxe/preciouswxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![trophy](https://github-profile-trophy.vercel.app/?username=preciouswxe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## - 🚀Connect ———— Click here : )
@@ -27,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 ###  ✨[Or maybe click other open source addresses to know my contributions](https://blog.csdn.net/2302_78965451?spm=1000.2115.3001.5343)
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=preciouswxe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![image](https://github.com/preciouswxe/html_show/blob/main/%E5%9B%BE%E7%89%87/tuitang.jpg)
