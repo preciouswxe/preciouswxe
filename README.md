@@ -1,4 +1,8 @@
 ## - 👋 Hi, I’m @preciouswxe.
+![tag3](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![tag2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![tag1](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<br>
 - 👀 I’m interested in drinking milktea.
 - 🌱 I’m a student in **HDU(Hangzhou Dianzi University)**. Now I'm currently learning  **Golang** , **Web security**.
 - 💞️ I’m looking to collaborate on Backend development.
@@ -10,7 +14,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preciouswxe&show_icons=true&theme=ambient_gradient)
-![csdn](https://stats.justsong.cn/api/csdn?id=2302_78965451&theme=flag-india) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciouswxe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preciouswxe&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
@@ -23,7 +27,5 @@
 ###  ✨[Or maybe click other open source addresses to know my contributions](https://blog.csdn.net/2302_78965451?spm=1000.2115.3001.5343)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciouswxe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-![tag1](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![tag2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![tag3](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![csdn](https://stats.justsong.cn/api/csdn?id=2302_78965451&theme=flag-india) 
+
