@@ -28,3 +28,4 @@
 ![csdn](https://stats.justsong.cn/api/csdn?id=2302_78965451)
 ![tag1](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![tag2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![tag3](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
