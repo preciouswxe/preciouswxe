@@ -17,9 +17,9 @@
 &emsp; &emsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preciouswxe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preciouswxe&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preciouswxe&theme=Default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=preciouswxe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=preciouswxe&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
