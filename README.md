@@ -1,14 +1,10 @@
-![](https://komarev.com/ghpvc/?username=preciouswxe&color=green) <br>
-
----
-
 ## - 👋 Hi, I’m @preciouswxe.
 ![tag3](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![tag2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![tag1](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
 - 👀 I’m interested in drinking milktea.
-- 🌱 I’m a student in **HDU(Hangzhou Dianzi University)**. Now I'm currently learning  **Golang** , **Web security**.
+- 🌱 I’m a student in **HDU(Hangzhou Dianzi University)**. Now I'm currently learning  **Golang** .
 - 💞️ I’m looking to collaborate on Backend development.
 - 📫 How to reach me : 1356137745@qq.com
 - 😄 Status: alive, laughing
